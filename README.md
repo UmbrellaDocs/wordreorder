@@ -2,6 +2,8 @@
 
 A Command-Line Interface (CLI) tool to reorganize Microsoft Word (.docx) documents based on a specified Table of Contents (ToC) structure defined in a YAML file. This tool leverages Word's built-in heading styles (Heading 1, Heading 2, etc.) to identify sections.
 
+This is a test project developed with the assistance of AI tools. It serves as an experimental implementation to demonstrate document reorganization capabilities and is not intended for production use without further testing and validation.
+
 ## Features
 
 *   **Generate TOC Structure:** Analyzes a Word document and generates a structured YAML file representing its current heading hierarchy.
@@ -9,7 +11,6 @@ A Command-Line Interface (CLI) tool to reorganize Microsoft Word (.docx) documen
 *   **Handles Hierarchy:** Understands nested heading levels (e.g., Heading 2 under Heading 1).
 *   **Flexible Handling:** Provides options for dealing with sections present in the source but not the ToC (append, delete, warn) and vice-versa (error, warn, ignore).
 *   **Cross-Platform:** Built with Python and libraries that work on Windows, macOS, and Linux.
-``
 
 ## Important Notes & Limitations
 
