@@ -1,0 +1,37 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+# created-by: conda 24.11.3
+altgraph=0.17.3=py312hca03da5_0
+bzip2=1.0.8=h80987f9_6
+ca-certificates=2025.2.25=hca03da5_0
+colorama=0.4.6=py312hca03da5_0
+expat=2.6.4=h313beb8_0
+icu=73.1=h313beb8_0
+libcxx=14.0.6=h848a8c0_0
+libffi=3.4.4=hca03da5_1
+libiconv=1.16=h80987f9_3
+libxml2=2.13.5=h0b34f26_0
+libxslt=1.1.41=hf4d3faa_0
+lxml=5.3.0=py312h1d4350b_1
+macholib=1.16.3=py312hca03da5_0
+ncurses=6.4=h313beb8_0
+openssl=3.0.16=h02f6b3c_0
+packaging=24.2=py312hca03da5_0
+pip=25.0=py312hca03da5_0
+pyinstaller=6.12.0=py312h6ba3021_0
+pyinstaller-hooks-contrib=2025.1=py312hca03da5_0
+python=3.12.9=h99e199e_0
+python-docx=1.1.2=pyhff2d567_1
+pyyaml=6.0.2=py312h80987f9_0
+readline=8.2=h1a28f6b_0
+setuptools=75.8.0=py312hca03da5_0
+sqlite=3.45.3=h80987f9_0
+tk=8.6.14=h6ba3021_0
+tqdm=4.67.1=py312h989b03a_0
+typing_extensions=4.12.2=py312hca03da5_0
+tzdata=2025a=h04d1e81_0
+wheel=0.45.1=py312hca03da5_0
+xz=5.6.4=h80987f9_1
+yaml=0.2.5=h1a28f6b_0
+zlib=1.2.13=h18a0788_1
